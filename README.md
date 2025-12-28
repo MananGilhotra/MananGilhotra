@@ -1,3 +1,10 @@
+
+#I'm Manan Gilhotra
+
+
+#I’m Manan, a Computer Science student & MERN Stack Developer
+
+
 # 💫 About Me:
 I am Currently Working on Full-stack MERN projects with authentication, APIs, and real-time features<br>Open-source and beginner-friendly full-stack projects<br>Frontend and Backend optimization, scalable APIs, and system design<br>Advanced Node.js, backend architecture, and DSA<br>React, Node.js, MongoDB, REST APIs, MERN projects<br>I enjoy turning complex problems into simple, clean solutions
 
